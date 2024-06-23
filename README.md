@@ -32,6 +32,8 @@
  
  - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
 
+<br/>
+<br/>
 
 ![Snake animation](https://github.com/AnderH4ck/AnderH4ck/blob/output/github-contribution-grid-snake.svg)
 
