@@ -1,4 +1,4 @@
-<div text="center">
+<div align="center">
    <h1>Hi there, I'm <a href="https://hemant.codes">Anderson</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
