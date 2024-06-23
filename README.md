@@ -31,12 +31,6 @@
  - All About living life at its best.
  
 
-<br/>
-<br/>
-
-![Snake animation](https://github.com/AnderH4ck/AnderH4ck/blob/output/github-contribution-grid-snake.svg)
-
-
 <br />
 <br />
 
