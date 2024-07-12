@@ -13,7 +13,7 @@
 
 
 <br />
-<img align="right" height="320px" width="450px" alt="GIF" src="https://media.tenor.com/bSz-e7F3D7QAAAAM/elmo.gif" />
+
 <p align="center">
   <h3> I'm 21 years old Full-Stack developer from India.</h3>
 </p>
