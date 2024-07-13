@@ -1,78 +1,59 @@
-<div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Anderson</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-
-</div>
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
-<div align="center">
-   
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front+End+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" /></a>
-</div>
-
-
-
-<br />
-
 <p align="center">
-  <h3> I'm 21 years old Full-Stack developer from India.</h3>
+ <h1 align="center">Hi I'm Anderson Tasilla<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> </h1>
+ <h4 align="center"> 
+     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+Frontend+Web+Developer%E2%9C%A8%E2%9C%A8"></a>
+</h4>
 </p>
 
- - 🥀 Learning Swift & Objective_C
- 
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
+<br />
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+## About 👨
+<div align="center">  
+<p align="center">
+  Soy un apasionado desarrollador web con sólidos conocimientos en Java, HTML5, CSS3 y JavaScript. Mi trayectoria incluye la creación de aplicaciones web robustas y eficientes, así como la implementación de diseños innovadores con un enfoque en la usabilidad y la experiencia del usuario. Soy proactivo y disfruto enfrentando nuevos desafíos, siempre buscando aprender y mejorar mis habilidades. Actualmente, estoy en búsqueda activa de oportunidades para aplicar mis habilidades técnicas en proyectos dinámicos y contribuir al éxito de equipos de desarrollo innovadores 🚀
+</p>
+</div>
  
- - I do frontend and a bit of everything :heart:
- 
- - All About living life at its best.
- 
-
 <br />
 <br />
 
-### - Languages
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
+## Full Stack Developer 
+<div style="display: inline_block" align="center">
+  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/html5.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/css.svg">
+  <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/figma.svg">
+      <img align="center" alt="TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/tailwindcss.svg">
+    <img align="center" alt="Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/javascript.svg">
+  <img align="center" alt="Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/typescript.svg">
+  <img align="center" alt="Vite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/vitejs.svg">
+    <img align="center" alt="NPM" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/npm.svg">
+  <img align="center" alt="Pnpm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/pnpm.svg">
+  <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/react.svg">
+  <img align="center" alt="ReactRouter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/reactrouter.svg">
+   <img align="center" alt="Nextjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nextjs.svg">
+  <img align="center" alt="Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nodejs.svg">
+  <img align="center" alt="Express" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/expressjs_dark.svg">
+  <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/postman.svg">
+  <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/mysql.svg">
+    <img align="center" alt="MongoDb" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/mongodb.svg">
+    <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/git.svg">
+  <img align="center" alt="Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/github.svg">
+  <img align="center" alt="Windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/windows.svg">
+  <img align="center" alt="Warp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/warp.svg">
+  <img align="center" alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/linux.svg">
+  <img align="center" alt="Bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/bash_dark.svg">
+    <img align="center" alt="Netlify" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/netlify.svg">
+    <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/java.svg">
+    <img align="center" alt="intellijidea" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/intellijidea.svg">    
 </div>
 
-
-
-
-
-
-
-
 ### - What i do
-
-
-
 <br />
-
 <p align="center">
    <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
    </p>
-   
-   
 <br />
-
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
