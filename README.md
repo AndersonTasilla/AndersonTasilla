@@ -47,6 +47,17 @@
     <img align="center" alt="intellijidea" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/intellijidea.svg">    
 </div>
 
+### - 📫 How to reach me: ...
+   <p>
+      <a href="https://www.linkedin.com/in//">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
+      </a>   
+      <a align='right' href="mailto:andersontasilla.dev@gmail.com">
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+      </a>  
+   </p>
+   <p><label>andersontasilla.dev@gmail.com</label></p>
+
 ### - What i do
 <br />
 <p align="center">
