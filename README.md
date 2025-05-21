@@ -57,12 +57,6 @@
       </a>  
    </p>
    <p><label>andersontasilla.dev@gmail.com</label></p>
-
-### - What i do
-<br />
-<p align="center">
-   <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" />
-   </p>
 <br />
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
