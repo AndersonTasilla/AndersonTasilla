@@ -17,35 +17,7 @@
 <br />
 <br />
 
-## Full Stack Developer 
-<div style="display: inline_block" align="center">
-  <img align="center" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/html5.svg">
-  <img align="center" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/css.svg">
-  <img align="center" alt="Figma" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/figma.svg">
-      <img align="center" alt="TailwindCSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/tailwindcss.svg">
-    <img align="center" alt="Js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/javascript.svg">
-  <img align="center" alt="Typescript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/typescript.svg">
-  <img align="center" alt="Vite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/vitejs.svg">
-    <img align="center" alt="NPM" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/npm.svg">
-  <img align="center" alt="Pnpm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/pnpm.svg">
-  <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/react.svg">
-  <img align="center" alt="ReactRouter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/reactrouter.svg">
-   <img align="center" alt="Nextjs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nextjs.svg">
-  <img align="center" alt="Node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/nodejs.svg">
-  <img align="center" alt="Express" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/expressjs_dark.svg">
-  <img align="center" alt="Postman" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/postman.svg">
-  <img align="center" alt="Mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/mysql.svg">
-    <img align="center" alt="MongoDb" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/mongodb.svg">
-    <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/git.svg">
-  <img align="center" alt="Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/github.svg">
-  <img align="center" alt="Windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/windows.svg">
-  <img align="center" alt="Warp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/warp.svg">
-  <img align="center" alt="Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/linux.svg">
-  <img align="center" alt="Bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/bash_dark.svg">
-    <img align="center" alt="Netlify" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/netlify.svg">
-    <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/java.svg">
-    <img align="center" alt="intellijidea" height="50" width="50" src="https://cdn.jsdelivr.net/gh/lgcarlinf/cdnTest/assets/intellijidea.svg">    
-</div>
+
 
 ### - 📫 How to reach me: ...
    <p>
